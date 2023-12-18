@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "264773014211",
+    "project_id": "photo-share-79468",
+    "storage_bucket": "photo-share-79468.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264773014211:android:197f927b14d69992e50876",
+        "android_client_info": {
+          "package_name": "com.example.dev_upload_image"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs2L-2vVfP_ezN_4oTdmSaigf9Hi8S_80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
